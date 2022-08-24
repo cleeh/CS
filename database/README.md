@@ -688,7 +688,7 @@
         <li>
             개념적 모델링<sub>conceptual modeling</sub>
             <p>
-                현실 세계에서 코끼리에 대한 중요 데이터를 추출하여 개념 세계로 옮기는 작업이다. 개념적 데이터 모델로 개체-관계 모델<sub>E-R Model; Entity-Relationship Model</sub>을 많이 사용한다.
+                현실 세계의 데이터를 추출하여 개념 세계로 옮기는 작업이다. 개념적 데이터 모델로 개체-관계 모델<sub>E-R Model; Entity-Relationship Model</sub>을 많이 사용한다.
             </p>
         </li>
         <li>
